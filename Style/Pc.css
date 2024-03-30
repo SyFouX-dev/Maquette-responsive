@@ -1,0 +1,25 @@
+@media screen and (min-width: 1000px){
+    #resaux {
+        margin-left: 150px;
+    }
+
+    #home{
+        display: flex;
+    }
+
+    #home img{
+        margin-left: 150px;
+    }    
+
+    #navigation ul {
+        display: flex;
+        margin-top: 70px;
+        gap: 20px;
+    }
+
+    #image-container, #image, .white, #drapeux, h4, #info, #HT, #there, #fin ul{
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+
+}
